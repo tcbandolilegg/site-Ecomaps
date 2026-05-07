@@ -1,6 +1,6 @@
 {
-  "name": "Site: Institucional EcoMaps",
-  "description": "Site institucional e explicativo do Ecomaps",
+  "name": "Site: Institucional ECO Ponto",
+  "description": "Site institucional e explicativo do ECO Ponto",
   "requestFramePermissions": [
     "geolocation"
   ],

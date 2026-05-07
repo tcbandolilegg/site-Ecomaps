@@ -189,7 +189,7 @@ export default function App() {
               <div className="w-8 h-8 rounded-full bg-emerald-600 flex items-center justify-center shadow-lg shadow-emerald-200">
                 <Leaf className="w-5 h-5 text-white" />
               </div>
-              <span className="font-display font-bold text-xl tracking-tight">EcoMaps</span>
+              <span className="font-display font-bold text-xl tracking-tight uppercase">ECO Ponto</span>
             </div>
             
             <div className="hidden md:flex items-center gap-8">
@@ -227,7 +227,7 @@ export default function App() {
             className="fixed inset-0 z-[60] bg-white p-6 md:hidden"
           >
             <div className="flex justify-between items-center mb-12">
-              <span className="font-display font-bold text-2xl text-emerald-600">EcoMaps</span>
+              <span className="font-display font-bold text-2xl text-emerald-600 uppercase">ECO Ponto</span>
               <button onClick={() => setMobileMenuOpen(false)} className="p-2 bg-zinc-100 rounded-full"><X className="w-8 h-8" /></button>
             </div>
             <div className="flex flex-col gap-8 text-center text-2xl font-display font-medium text-zinc-800">
@@ -345,7 +345,7 @@ export default function App() {
                  </h2>
                  <p className="text-zinc-500 text-lg leading-relaxed">
                    Sabia que a contaminação de materiais recicláveis com resíduos orgânicos 
-                   pode invalidar todo um lote de reciclagem? No EcoMaps, nosso propósito é 
+                   pode invalidar todo um lote de reciclagem? No ECO Ponto, nosso propósito é 
                    elevar o nível de consciência sobre o ciclo de vida dos produtos.
                  </p>
                  
@@ -403,7 +403,7 @@ export default function App() {
                <Badge className="bg-emerald-600 hover:bg-emerald-600 text-white border-none py-1.5 px-4 font-bold tracking-widest uppercase text-[10px]">EcoPonto Idea</Badge>
                <h2 className="text-4xl md:text-6xl font-display font-bold tracking-tighter">Transforme Ideias em Ações.</h2>
                <p className="text-xl text-zinc-400 leading-relaxed">
-                 Inspirado no projeto da <strong>Ascender Ideias</strong>, o EcoMaps é um portal dedicado 
+                 Inspirado no projeto da <strong>Ascender Ideias</strong>, o ECO Ponto é um portal dedicado 
                  a democratizar o acesso à educação ambiental de qualidade para todos os brasileiros.
                </p>
                <div className="flex flex-col sm:flex-row items-center justify-center gap-4 pt-4">
@@ -425,7 +425,7 @@ export default function App() {
             <div className="col-span-2 space-y-8">
               <div className="flex items-center gap-2">
                 <Leaf className="w-8 h-8 text-emerald-500" />
-                <span className="font-display font-bold text-2xl tracking-tighter">EcoMaps</span>
+                <span className="font-display font-bold text-2xl tracking-tighter uppercase">ECO Ponto</span>
               </div>
               <p className="text-zinc-500 leading-relaxed max-w-sm text-lg">
                 Educação ambiental prática para um cotidiano mais sustentável. 
@@ -453,7 +453,7 @@ export default function App() {
           </div>
           
           <div className="flex flex-col md:flex-row items-center justify-between pt-12 gap-8 text-zinc-700 text-[10px] font-bold uppercase tracking-[0.3em]">
-            <p>© 2024 EcoMaps Brasil. Conhecimento para a vida.</p>
+            <p>© 2024 ECO Ponto Brasil. Conhecimento para a vida.</p>
             <div className="flex gap-12">
                <span>Paz & Reciclagem</span>
                <span>Brasil</span>
