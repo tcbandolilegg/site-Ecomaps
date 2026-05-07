@@ -1,0 +1,6 @@
+{
+  "name": "EcoMaps",
+  "description": "A community-driven platform to discover and map eco-friendly locations, recycling centers, and sustainable businesses.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": []
+}
