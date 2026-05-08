@@ -398,8 +398,8 @@ export default function App() {
       {/* Brand CTA */}
       <section id="sobre" className="py-28 bg-white">
         <div className="container mx-auto px-6">
-          <div className="bg-linear-to-br from-zinc-900 to-zinc-800 rounded-[50px] h-[500px] pt-[50px] pb-[50px] pl-[80px] pr-[80px] text-center text-white space-y-8 relative overflow-hidden shadow-2xl">
-            <div className="relative z-10 max-w-2xl mx-auto space-y-8 mb-8 pl-0">
+          <div className="bg-linear-to-br from-zinc-900 to-zinc-800 rounded-[30px] md:rounded-[50px] min-h-[400px] md:h-[500px] flex items-center justify-center p-6 md:p-20 text-center text-white space-y-8 relative overflow-hidden shadow-2xl">
+            <div className="relative z-10 max-w-2xl mx-auto space-y-6 md:space-y-8">
                <Badge className="bg-emerald-600 hover:bg-emerald-600 text-white border-none py-1.5 px-4 font-bold tracking-widest uppercase text-[10px]">EcoPonto Idea</Badge>
                <h2 className="text-4xl md:text-6xl font-display font-bold tracking-tighter">Transforme Ideias em Ações.</h2>
                <p className="text-xl text-zinc-400 leading-relaxed">
